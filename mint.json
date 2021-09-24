@@ -1,0 +1,12 @@
+{
+  "name": "zongora",
+  "application": {
+    "head": "assets/head.html",
+    "title": "Zongora"
+  },
+  "external": {
+    "stylesheets": ["assets/style.css"]
+  },
+  "source-directories": ["source"],
+  "test-directories": ["tests"]
+}
